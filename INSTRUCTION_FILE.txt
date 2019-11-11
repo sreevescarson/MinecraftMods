@@ -1,0 +1,5 @@
+Windows 10: Open the windows search menu then type "run" and click on the respective option. Enter "%APPDATA%" into the Run window which will open a file explorer that routes to the .appdata directory. Locate the .minecraft folder and open it. Find the "mods" folder inside .minecraft (If it doesn't exist, just create a folder called "mods"). Open the GitHub Desktop application and ***********
+
+Linux:
+
+MacOS:
